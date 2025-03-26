@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81603295-1975-4BD8-B011-F748C035DF01}|Courses.Web\\Courses.Web.csproj|c:\\users\\dimit\\desktop\\fax\\semestar 6\\integrated systems\\courses_app\\courses.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81603295-1975-4BD8-B011-F748C035DF01}|Courses.Web\\Courses.Web.csproj|solutionrelative:courses.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81603295-1975-4BD8-B011-F748C035DF01}|Courses.Web\\Courses.Web.csproj|c:\\users\\dimit\\desktop\\fax\\semestar 6\\integrated systems\\courses_app\\courses.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81603295-1975-4BD8-B011-F748C035DF01}|Courses.Web\\Courses.Web.csproj|solutionrelative:courses.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81603295-1975-4BD8-B011-F748C035DF01}|Courses.Web\\Courses.Web.csproj|c:\\users\\dimit\\desktop\\fax\\semestar 6\\integrated systems\\courses_app\\courses.web\\controllers\\lecturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81603295-1975-4BD8-B011-F748C035DF01}|Courses.Web\\Courses.Web.csproj|solutionrelative:courses.web\\controllers\\lecturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81603295-1975-4BD8-B011-F748C035DF01}|Courses.Web\\Courses.Web.csproj|c:\\users\\dimit\\desktop\\fax\\semestar 6\\integrated systems\\courses_app\\courses.web\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81603295-1975-4BD8-B011-F748C035DF01}|Courses.Web\\Courses.Web.csproj|solutionrelative:courses.web\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81603295-1975-4BD8-B011-F748C035DF01}|Courses.Web\\Courses.Web.csproj|c:\\users\\dimit\\desktop\\fax\\semestar 6\\integrated systems\\courses_app\\courses.web\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81603295-1975-4BD8-B011-F748C035DF01}|Courses.Web\\Courses.Web.csproj|solutionrelative:courses.web\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_Courses.Web_927d6f4c_b53b_4ad0_abbd_cd35e8a8f22a/True/SqlTable/dbo.Courses.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81603295-1975-4BD8-B011-F748C035DF01}|Courses.Web\\Courses.Web.csproj|c:\\users\\dimit\\desktop\\fax\\semestar 6\\integrated systems\\courses_app\\courses.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81603295-1975-4BD8-B011-F748C035DF01}|Courses.Web\\Courses.Web.csproj|solutionrelative:courses.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Web\\Data\\Migrations\\20250326183739_AddModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Courses.Web\\Data\\Migrations\\20250326183739_AddModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81603295-1975-4BD8-B011-F748C035DF01}|Courses.Web\\Courses.Web.csproj|c:\\users\\dimit\\desktop\\fax\\semestar 6\\integrated systems\\courses_app\\courses.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81603295-1975-4BD8-B011-F748C035DF01}|Courses.Web\\Courses.Web.csproj|solutionrelative:courses.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768497EA-25B2-4D4B-AC68-FB99FCE3775E}|Courses.Domain\\Courses.Domain.csproj|c:\\users\\dimit\\desktop\\fax\\semestar 6\\integrated systems\\courses_app\\courses.domain\\domainmodels\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768497EA-25B2-4D4B-AC68-FB99FCE3775E}|Courses.Domain\\Courses.Domain.csproj|solutionrelative:courses.domain\\domainmodels\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768497EA-25B2-4D4B-AC68-FB99FCE3775E}|Courses.Domain\\Courses.Domain.csproj|c:\\users\\dimit\\desktop\\fax\\semestar 6\\integrated systems\\courses_app\\courses.domain\\domainmodels\\lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768497EA-25B2-4D4B-AC68-FB99FCE3775E}|Courses.Domain\\Courses.Domain.csproj|solutionrelative:courses.domain\\domainmodels\\lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768497EA-25B2-4D4B-AC68-FB99FCE3775E}|Courses.Domain\\Courses.Domain.csproj|c:\\users\\dimit\\desktop\\fax\\semestar 6\\integrated systems\\courses_app\\courses.domain\\domainmodels\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768497EA-25B2-4D4B-AC68-FB99FCE3775E}|Courses.Domain\\Courses.Domain.csproj|solutionrelative:courses.domain\\domainmodels\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768497EA-25B2-4D4B-AC68-FB99FCE3775E}|Courses.Domain\\Courses.Domain.csproj|c:\\users\\dimit\\desktop\\fax\\semestar 6\\integrated systems\\courses_app\\courses.domain\\domainmodels\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768497EA-25B2-4D4B-AC68-FB99FCE3775E}|Courses.Domain\\Courses.Domain.csproj|solutionrelative:courses.domain\\domainmodels\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81603295-1975-4BD8-B011-F748C035DF01}|Courses.Web\\Courses.Web.csproj|c:\\users\\dimit\\desktop\\fax\\semestar 6\\integrated systems\\courses_app\\courses.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81603295-1975-4BD8-B011-F748C035DF01}|Courses.Web\\Courses.Web.csproj|solutionrelative:courses.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768497EA-25B2-4D4B-AC68-FB99FCE3775E}|Courses.Domain\\Courses.Domain.csproj|c:\\users\\dimit\\desktop\\fax\\semestar 6\\integrated systems\\courses_app\\courses.domain\\identity\\coursesapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768497EA-25B2-4D4B-AC68-FB99FCE3775E}|Courses.Domain\\Courses.Domain.csproj|solutionrelative:courses.domain\\identity\\coursesapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Courses.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Courses.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCUAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T18:49:10.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Web\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Courses.Web\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Web\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Courses.Web\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:47:58.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LecturesController.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Web\\Controllers\\LecturesController.cs",
+              "RelativeDocumentMoniker": "Courses.Web\\Controllers\\LecturesController.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Web\\Controllers\\LecturesController.cs",
+              "RelativeToolTip": "Courses.Web\\Controllers\\LecturesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:47:20.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnrollmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Web\\Controllers\\EnrollmentsController.cs",
+              "RelativeDocumentMoniker": "Courses.Web\\Controllers\\EnrollmentsController.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Web\\Controllers\\EnrollmentsController.cs",
+              "RelativeToolTip": "Courses.Web\\Controllers\\EnrollmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:46:40.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Web\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Courses.Web\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Web\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Courses.Web\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:46:04.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Courses [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_Courses.Web_927d6f4c_b53b_4ad0_abbd_cd35e8a8f22a/True/SqlTable/dbo.Courses.sql",
+              "ToolTip": "dbo.Courses [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-26T18:40:42.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Courses.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Web\\appsettings.json",
+              "RelativeToolTip": "Courses.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T18:39:38.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250326183739_AddModels.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Web\\Data\\Migrations\\20250326183739_AddModels.cs",
+              "RelativeDocumentMoniker": "Courses.Web\\Data\\Migrations\\20250326183739_AddModels.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Web\\Data\\Migrations\\20250326183739_AddModels.cs",
+              "RelativeToolTip": "Courses.Web\\Data\\Migrations\\20250326183739_AddModels.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:37:39.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Courses.Web\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Courses.Web\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:35:23.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Lecture.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Domain\\DomainModels\\Lecture.cs",
+              "RelativeDocumentMoniker": "Courses.Domain\\DomainModels\\Lecture.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Domain\\DomainModels\\Lecture.cs",
+              "RelativeToolTip": "Courses.Domain\\DomainModels\\Lecture.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:29:00.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Domain\\DomainModels\\Course.cs",
+              "RelativeDocumentMoniker": "Courses.Domain\\DomainModels\\Course.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Domain\\DomainModels\\Course.cs",
+              "RelativeToolTip": "Courses.Domain\\DomainModels\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:26:50.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Domain\\DomainModels\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Courses.Domain\\DomainModels\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Domain\\DomainModels\\Enrollment.cs",
+              "RelativeToolTip": "Courses.Domain\\DomainModels\\Enrollment.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:21:40.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Domain\\DomainModels\\Student.cs",
+              "RelativeDocumentMoniker": "Courses.Domain\\DomainModels\\Student.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Domain\\DomainModels\\Student.cs",
+              "RelativeToolTip": "Courses.Domain\\DomainModels\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:19:04.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Courses.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Courses.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAIAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:10:43.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CoursesApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Domain\\Identity\\CoursesApplicationUser.cs",
+              "RelativeDocumentMoniker": "Courses.Domain\\Identity\\CoursesApplicationUser.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Fax\\Semestar 6\\Integrated Systems\\Courses_app\\Courses.Domain\\Identity\\CoursesApplicationUser.cs",
+              "RelativeToolTip": "Courses.Domain\\Identity\\CoursesApplicationUser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:16:15.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

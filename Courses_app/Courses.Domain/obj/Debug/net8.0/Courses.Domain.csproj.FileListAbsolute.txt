@@ -1,0 +1,14 @@
+C:\Users\dimit\Desktop\Fax\Semestar 6\Integrated Systems\Courses_app\Courses.Domain\bin\Debug\net8.0\Courses.Domain.deps.json
+C:\Users\dimit\Desktop\Fax\Semestar 6\Integrated Systems\Courses_app\Courses.Domain\bin\Debug\net8.0\Courses.Domain.dll
+C:\Users\dimit\Desktop\Fax\Semestar 6\Integrated Systems\Courses_app\Courses.Domain\bin\Debug\net8.0\Courses.Domain.pdb
+C:\Users\dimit\Desktop\Fax\Semestar 6\Integrated Systems\Courses_app\Courses.Domain\obj\Debug\net8.0\Courses.Domain.csproj.AssemblyReference.cache
+C:\Users\dimit\Desktop\Fax\Semestar 6\Integrated Systems\Courses_app\Courses.Domain\obj\Debug\net8.0\Courses.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\Desktop\Fax\Semestar 6\Integrated Systems\Courses_app\Courses.Domain\obj\Debug\net8.0\Courses.Domain.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\Fax\Semestar 6\Integrated Systems\Courses_app\Courses.Domain\obj\Debug\net8.0\Courses.Domain.AssemblyInfo.cs
+C:\Users\dimit\Desktop\Fax\Semestar 6\Integrated Systems\Courses_app\Courses.Domain\obj\Debug\net8.0\Courses.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\Fax\Semestar 6\Integrated Systems\Courses_app\Courses.Domain\obj\Debug\net8.0\Courses.Domain.dll
+C:\Users\dimit\Desktop\Fax\Semestar 6\Integrated Systems\Courses_app\Courses.Domain\obj\Debug\net8.0\refint\Courses.Domain.dll
+C:\Users\dimit\Desktop\Fax\Semestar 6\Integrated Systems\Courses_app\Courses.Domain\obj\Debug\net8.0\Courses.Domain.pdb
+C:\Users\dimit\Desktop\Fax\Semestar 6\Integrated Systems\Courses_app\Courses.Domain\obj\Debug\net8.0\ref\Courses.Domain.dll
+C:\Users\dimit\Desktop\Fax\Semestar 6\Integrated Systems\Courses_app\Courses.Domain\bin\Debug\net8.0\Courses.Domain.runtimeconfig.json
+C:\Users\dimit\Desktop\Fax\Semestar 6\Integrated Systems\Courses_app\Courses.Domain\obj\Debug\net8.0\Courses.Domain.genruntimeconfig.cache
