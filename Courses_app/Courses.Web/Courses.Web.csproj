@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-Courses.Web-927d6f4c-b53b-4ad0-abbd-cd35e8a8f22a</UserSecretsId>
+    <UserSecretsId>aspnet-Courses.Web-41ad6eec-9fb8-4f89-9a33-98404b869ba1</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -19,6 +19,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Courses.Domain\Courses.Domain.csproj" />
+    <ProjectReference Include="..\Courses.Repositoty\Courses.Repository.csproj" />
+    <ProjectReference Include="..\Courses.Service\Courses.Service.csproj" />
   </ItemGroup>
 
 </Project>

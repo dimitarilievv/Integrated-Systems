@@ -12,11 +12,11 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-Courses.Web-927d6f4c-b53b-4ad0-abbd-cd35e8a8f22a")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-Courses.Web-41ad6eec-9fb8-4f89-9a33-98404b869ba1")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Courses.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2641fa9ff1eb9a5ef36c42f94c34a24dc25cc522")]
 [assembly: System.Reflection.AssemblyProductAttribute("Courses.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Courses.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

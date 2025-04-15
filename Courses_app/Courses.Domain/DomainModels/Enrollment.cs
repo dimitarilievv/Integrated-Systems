@@ -7,10 +7,8 @@ using System.Threading.Tasks;
 
 namespace Courses.Domain.DomainModels
 {
-    public class Enrollment
+    public class Enrollment : BaseEntity
     {
-        [Key]
-        public Guid Id { get; set; }
         public DateTime DateEnrolled { get; set; }
         public Boolean ReEnrolled { get; set; }
         public string? StudentId { get; set; }
