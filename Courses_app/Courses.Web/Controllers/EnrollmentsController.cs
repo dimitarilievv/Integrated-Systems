@@ -7,34 +7,32 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Courses.Domain.DomainModels;
 using Courses.Web.Data;
+using Courses.Repository.Interface;
+using Courses.Service.Interface;
+using Courses.Service.Implementation;
 
 namespace Courses.Web.Controllers
 {
     public class EnrollmentsController : Controller
     {
-        private readonly ApplicationDbContext _context;
+        private readonly IEnrollmentService _enrollmentService;
 
-        public EnrollmentsController(ApplicationDbContext context)
+        public EnrollmentsController(IEnrollmentService enrollmentService)
         {
-            _context = context;
+            _enrollmentService = enrollmentService;
         }
 
         // GET: Enrollments
-        public async Task<IActionResult> Index()
+        public IActionResult Index()
         {
-            return View(await _context.Enrollments.ToListAsync());
+            return View(_enrollmentService.GetAll());
         }
 
         // GET: Enrollments/Details/5
-        public async Task<IActionResult> Details(Guid? id)
+        public IActionResult Details(Guid id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
+            var enrollment = _enrollmentService.GetById(id);
 
-            var enrollment = await _context.Enrollments
-                .FirstOrDefaultAsync(m => m.Id == id);
             if (enrollment == null)
             {
                 return NotFound();
@@ -54,27 +52,20 @@ namespace Courses.Web.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,DateEnrolled,ReEnrolled,StudentId,CourseId")] Enrollment enrollment)
+        public IActionResult Create([Bind("Id,DateEnrolled,ReEnrolled,StudentId,CourseId")] Enrollment enrollment)
         {
             if (ModelState.IsValid)
             {
-                enrollment.Id = Guid.NewGuid();
-                _context.Add(enrollment);
-                await _context.SaveChangesAsync();
+                _enrollmentService.Insert(enrollment);
                 return RedirectToAction(nameof(Index));
             }
             return View(enrollment);
         }
 
         // GET: Enrollments/Edit/5
-        public async Task<IActionResult> Edit(Guid? id)
+        public IActionResult Edit(Guid id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
-            var enrollment = await _context.Enrollments.FindAsync(id);
+            var enrollment = _enrollmentService.GetById(id);
             if (enrollment == null)
             {
                 return NotFound();
@@ -87,46 +78,24 @@ namespace Courses.Web.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(Guid id, [Bind("Id,DateEnrolled,ReEnrolled,StudentId,CourseId")] Enrollment enrollment)
+        public IActionResult Edit(Guid id, [Bind("Id,DateEnrolled,ReEnrolled,StudentId,CourseId")] Enrollment enrollment)
         {
             if (id != enrollment.Id)
             {
                 return NotFound();
             }
 
-            if (ModelState.IsValid)
-            {
-                try
-                {
-                    _context.Update(enrollment);
-                    await _context.SaveChangesAsync();
-                }
-                catch (DbUpdateConcurrencyException)
-                {
-                    if (!EnrollmentExists(enrollment.Id))
-                    {
-                        return NotFound();
-                    }
-                    else
-                    {
-                        throw;
-                    }
-                }
-                return RedirectToAction(nameof(Index));
-            }
-            return View(enrollment);
+            _enrollmentService.Update(enrollment);
+
+
+            return RedirectToAction(nameof(Index));
         }
 
         // GET: Enrollments/Delete/5
-        public async Task<IActionResult> Delete(Guid? id)
+        public IActionResult Delete(Guid id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
+            var enrollment = _enrollmentService.GetById(id);
 
-            var enrollment = await _context.Enrollments
-                .FirstOrDefaultAsync(m => m.Id == id);
             if (enrollment == null)
             {
                 return NotFound();
@@ -138,21 +107,20 @@ namespace Courses.Web.Controllers
         // POST: Enrollments/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(Guid id)
+        public IActionResult DeleteConfirmed(Guid id)
         {
-            var enrollment = await _context.Enrollments.FindAsync(id);
-            if (enrollment != null)
-            {
-                _context.Enrollments.Remove(enrollment);
-            }
-
-            await _context.SaveChangesAsync();
+            _enrollmentService.DeleteById(id);
             return RedirectToAction(nameof(Index));
         }
 
         private bool EnrollmentExists(Guid id)
         {
-            return _context.Enrollments.Any(e => e.Id == id);
+            var enrollment = _enrollmentService.GetById(id);
+            if (enrollment == null)
+            {
+                return false;
+            }
+            return true;
         }
     }
 }

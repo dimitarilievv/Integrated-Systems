@@ -10,6 +10,7 @@
         "dependencies": {
           "Courses.Domain": "1.0.0",
           "Courses.Repository": "1.0.0",
+          "Courses.Service": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "8.0.14",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.14",
           "Microsoft.AspNetCore.Identity.UI": "8.0.14",
@@ -2230,6 +2231,18 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Courses.Service/1.0.0": {
+        "dependencies": {
+          "Courses.Domain": "1.0.0",
+          "Courses.Repository": "1.0.0"
+        },
+        "runtime": {
+          "Courses.Service.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -3498,6 +3511,11 @@
       "sha512": ""
     },
     "Courses.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Courses.Service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

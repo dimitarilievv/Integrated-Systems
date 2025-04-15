@@ -11,7 +11,8 @@ namespace Courses.Service.Interface
     {
         List<Enrollment> GetAll();
         Enrollment? GetById(Guid id);
-        //TO DO
         Enrollment DeleteById(Guid id);
+        Enrollment Insert(Enrollment enrollment);
+        Enrollment Update(Enrollment enrollment);
     }
 }
