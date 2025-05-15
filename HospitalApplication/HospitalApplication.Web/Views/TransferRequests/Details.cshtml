@@ -1,0 +1,49 @@
+﻿@model HospitalApplication.Domain.DomainModels.TransferRequestDetailsViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+
+<!-- TODO: Create Table for TransferRequest -->
+<table class="table">
+    <thead>
+        <tr>
+            <th>Patient Name</th>
+            <th>Patient Last Name</th>
+            <th>Admission Date</th>
+            <th>Department</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.PatientTransfers != null && Model.PatientTransfers.Any())
+        {
+            foreach (var transfer in Model.PatientTransfers)
+            {
+                <tr>
+                    <td>@transfer.Patient?.FirstName</td>
+                    <td>@transfer.Patient?.LastName</td>
+                    <td>@transfer.Patient?.AdmissionDate.ToString("dd.MM.yyyy")</td>
+                    <td>@transfer.Department?.Name</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4">No patient transfers found.</td>
+            </tr>
+        }
+    </tbody>
+    <!-- Look at the table from any Index page for help -->
+    <!-- Iterate throught Model.PatientTransfer -->
+    <!-- Display: Patient Name, Patient Last Name, Patient Admission Date-->
+</table>
+
+
+<!-- TODO: Display Total Count -->
+<div>
+    <p>Total Count: @Model.TotalPatients</p>
+</div>
