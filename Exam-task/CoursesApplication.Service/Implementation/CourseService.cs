@@ -1,0 +1,67 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using CoursesApplication.Domain.DomainModels;
+using CoursesApplication.Repository.Interface;
+using CoursesApplication.Service.Interface;
+using Microsoft.EntityFrameworkCore;
+
+namespace CoursesApplication.Service.Implementation
+{
+    public class CourseService : ICourseService
+    {
+        private readonly IRepository<Course> _courseRepository;
+
+        public CourseService(IRepository<Course> courseRepository)
+        {
+            _courseRepository = courseRepository;
+        }
+
+        public Course DeleteById(Guid id)
+        {
+            var course = _courseRepository.Get(selector: x => x,
+                                                predicate: x => x.Id == id);
+            return _courseRepository.Delete(course);
+        }
+
+        public List<Course> GetAll()
+        {
+            return _courseRepository.GetAll(selector: x => x,
+                                         include: x => x
+                                         .Include(y => y.EnrolledStudents)
+                                         .ThenInclude(y => y.Semester)
+                                         .Include(y => y.EnrolledStudents)
+                                         .ThenInclude(y => y.Student))
+                .ToList();
+        }
+
+        public Course? GetById(Guid id)
+        {
+            return _courseRepository.Get(selector: x => x,
+                                         predicate: x => x.Id == id,
+                                         include: x=> x
+                                         .Include(y=>y.EnrolledStudents)
+                                         .ThenInclude(y=>y.Semester)
+                                         .Include(y=>y.EnrolledStudents)
+                                         .ThenInclude(y=>y.Student));
+        }
+
+        public Course Insert(Course course)
+        {
+            course.Id = Guid.NewGuid();
+            return _courseRepository.Insert(course);
+        }
+
+        public ICollection<Course> InsertMany(ICollection<Course> courses)
+        {
+            return _courseRepository.InsertMany(courses);
+        }
+
+        public Course Update(Course flight)
+        {
+            return _courseRepository.Update(flight);
+        }
+    }
+}

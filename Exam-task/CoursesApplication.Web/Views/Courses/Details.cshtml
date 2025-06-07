@@ -1,0 +1,55 @@
+@model CoursesApplication.Domain.DomainModels.Course
+
+@{
+    ViewData["Title"] = "Details";
+    var students = ViewBag.students as ICollection<CoursesApplication.Domain.DomainModels.StudentOnCourse>;
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Course</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Credits)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Credits)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SemesterType)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SemesterType)
+        </dd>
+    </dl>
+</div>
+@* dodadi tabela *@
+<table>
+@foreach (var item in students)
+{
+    <tr>
+        <td>
+            @item.Student.FullName
+        </td>
+        <td>
+            @item.Student.BirthDate
+        </td>
+        <td>
+            @item.Student.Address
+        </td>
+       
+    </tr>
+}
+</table>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

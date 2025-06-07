@@ -1,0 +1,72 @@
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Domain/bin/Debug/net8.0/CoursesApplication.Domain.deps.json
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Domain/bin/Debug/net8.0/CoursesApplication.Domain.dll
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Domain/bin/Debug/net8.0/CoursesApplication.Domain.pdb
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Domain/obj/Debug/net8.0/CoursesApplication.Domain.csproj.AssemblyReference.cache
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Domain/obj/Debug/net8.0/CoursesApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Domain/obj/Debug/net8.0/CoursesApplication.Domain.AssemblyInfoInputs.cache
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Domain/obj/Debug/net8.0/CoursesApplication.Domain.AssemblyInfo.cs
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Domain/obj/Debug/net8.0/CoursesApplication.Domain.csproj.CoreCompileInputs.cache
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Domain/obj/Debug/net8.0/CoursesApplication.Domain.dll
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Domain/obj/Debug/net8.0/refint/CoursesApplication.Domain.dll
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Domain/obj/Debug/net8.0/CoursesApplication.Domain.pdb
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Domain/obj/Debug/net8.0/ref/CoursesApplication.Domain.dll
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Domain/bin/Debug/net8.0/CoursesApplication.Domain.deps.json
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Domain/bin/Debug/net8.0/CoursesApplication.Domain.dll
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Domain/bin/Debug/net8.0/CoursesApplication.Domain.pdb
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Domain/obj/Debug/net8.0/CoursesApplication.Domain.csproj.AssemblyReference.cache
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Domain/obj/Debug/net8.0/CoursesApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Domain/obj/Debug/net8.0/CoursesApplication.Domain.AssemblyInfoInputs.cache
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Domain/obj/Debug/net8.0/CoursesApplication.Domain.AssemblyInfo.cs
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Domain/obj/Debug/net8.0/CoursesApplication.Domain.csproj.CoreCompileInputs.cache
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Domain/obj/Debug/net8.0/CoursesApplication.Domain.dll
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Domain/obj/Debug/net8.0/refint/CoursesApplication.Domain.dll
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Domain/obj/Debug/net8.0/CoursesApplication.Domain.pdb
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Domain/obj/Debug/net8.0/ref/CoursesApplication.Domain.dll
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Domain/bin/Debug/net8.0/CoursesApplication.Domain.deps.json
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Domain/bin/Debug/net8.0/CoursesApplication.Domain.dll
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Domain/bin/Debug/net8.0/CoursesApplication.Domain.pdb
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Domain/obj/Debug/net8.0/CoursesApplication.Domain.csproj.AssemblyReference.cache
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Domain/obj/Debug/net8.0/CoursesApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Domain/obj/Debug/net8.0/CoursesApplication.Domain.AssemblyInfoInputs.cache
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Domain/obj/Debug/net8.0/CoursesApplication.Domain.AssemblyInfo.cs
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Domain/obj/Debug/net8.0/CoursesApplication.Domain.csproj.CoreCompileInputs.cache
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Domain/obj/Debug/net8.0/CoursesApplication.Domain.dll
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Domain/obj/Debug/net8.0/refint/CoursesApplication.Domain.dll
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Domain/obj/Debug/net8.0/CoursesApplication.Domain.pdb
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Domain/obj/Debug/net8.0/ref/CoursesApplication.Domain.dll
+C:\Users\baze\Downloads\CoursesApplication3\CoursesApplication.Domain\bin\Debug\net8.0\CoursesApplication.Domain.deps.json
+C:\Users\baze\Downloads\CoursesApplication3\CoursesApplication.Domain\bin\Debug\net8.0\CoursesApplication.Domain.dll
+C:\Users\baze\Downloads\CoursesApplication3\CoursesApplication.Domain\bin\Debug\net8.0\CoursesApplication.Domain.pdb
+C:\Users\baze\Downloads\CoursesApplication3\CoursesApplication.Domain\obj\Debug\net8.0\CoursesApplication.Domain.csproj.AssemblyReference.cache
+C:\Users\baze\Downloads\CoursesApplication3\CoursesApplication.Domain\obj\Debug\net8.0\CoursesApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baze\Downloads\CoursesApplication3\CoursesApplication.Domain\obj\Debug\net8.0\CoursesApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\baze\Downloads\CoursesApplication3\CoursesApplication.Domain\obj\Debug\net8.0\CoursesApplication.Domain.AssemblyInfo.cs
+C:\Users\baze\Downloads\CoursesApplication3\CoursesApplication.Domain\obj\Debug\net8.0\CoursesApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\baze\Downloads\CoursesApplication3\CoursesApplication.Domain\obj\Debug\net8.0\CoursesApplication.Domain.dll
+C:\Users\baze\Downloads\CoursesApplication3\CoursesApplication.Domain\obj\Debug\net8.0\refint\CoursesApplication.Domain.dll
+C:\Users\baze\Downloads\CoursesApplication3\CoursesApplication.Domain\obj\Debug\net8.0\CoursesApplication.Domain.pdb
+C:\Users\baze\Downloads\CoursesApplication3\CoursesApplication.Domain\obj\Debug\net8.0\ref\CoursesApplication.Domain.dll
+C:\Users\dimit\Desktop\29.5-solution\CoursesApplication-Cleaned\CoursesApplication3\CoursesApplication.Domain\bin\Debug\net8.0\CoursesApplication.Domain.deps.json
+C:\Users\dimit\Desktop\29.5-solution\CoursesApplication-Cleaned\CoursesApplication3\CoursesApplication.Domain\bin\Debug\net8.0\CoursesApplication.Domain.dll
+C:\Users\dimit\Desktop\29.5-solution\CoursesApplication-Cleaned\CoursesApplication3\CoursesApplication.Domain\bin\Debug\net8.0\CoursesApplication.Domain.pdb
+C:\Users\dimit\Desktop\29.5-solution\CoursesApplication-Cleaned\CoursesApplication3\CoursesApplication.Domain\obj\Debug\net8.0\CoursesApplication.Domain.csproj.AssemblyReference.cache
+C:\Users\dimit\Desktop\29.5-solution\CoursesApplication-Cleaned\CoursesApplication3\CoursesApplication.Domain\obj\Debug\net8.0\CoursesApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\Desktop\29.5-solution\CoursesApplication-Cleaned\CoursesApplication3\CoursesApplication.Domain\obj\Debug\net8.0\CoursesApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\29.5-solution\CoursesApplication-Cleaned\CoursesApplication3\CoursesApplication.Domain\obj\Debug\net8.0\CoursesApplication.Domain.AssemblyInfo.cs
+C:\Users\dimit\Desktop\29.5-solution\CoursesApplication-Cleaned\CoursesApplication3\CoursesApplication.Domain\obj\Debug\net8.0\CoursesApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\29.5-solution\CoursesApplication-Cleaned\CoursesApplication3\CoursesApplication.Domain\obj\Debug\net8.0\CoursesApplication.Domain.dll
+C:\Users\dimit\Desktop\29.5-solution\CoursesApplication-Cleaned\CoursesApplication3\CoursesApplication.Domain\obj\Debug\net8.0\refint\CoursesApplication.Domain.dll
+C:\Users\dimit\Desktop\29.5-solution\CoursesApplication-Cleaned\CoursesApplication3\CoursesApplication.Domain\obj\Debug\net8.0\CoursesApplication.Domain.pdb
+C:\Users\dimit\Desktop\29.5-solution\CoursesApplication-Cleaned\CoursesApplication3\CoursesApplication.Domain\obj\Debug\net8.0\ref\CoursesApplication.Domain.dll
+C:\Users\dimit\Desktop\New folder\29.5-solution\CoursesApplication-Cleaned\Exam-task\CoursesApplication.Domain\bin\Debug\net8.0\CoursesApplication.Domain.deps.json
+C:\Users\dimit\Desktop\New folder\29.5-solution\CoursesApplication-Cleaned\Exam-task\CoursesApplication.Domain\bin\Debug\net8.0\CoursesApplication.Domain.dll
+C:\Users\dimit\Desktop\New folder\29.5-solution\CoursesApplication-Cleaned\Exam-task\CoursesApplication.Domain\bin\Debug\net8.0\CoursesApplication.Domain.pdb
+C:\Users\dimit\Desktop\New folder\29.5-solution\CoursesApplication-Cleaned\Exam-task\CoursesApplication.Domain\obj\Debug\net8.0\CoursesApplication.Domain.csproj.AssemblyReference.cache
+C:\Users\dimit\Desktop\New folder\29.5-solution\CoursesApplication-Cleaned\Exam-task\CoursesApplication.Domain\obj\Debug\net8.0\CoursesApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\Desktop\New folder\29.5-solution\CoursesApplication-Cleaned\Exam-task\CoursesApplication.Domain\obj\Debug\net8.0\CoursesApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\New folder\29.5-solution\CoursesApplication-Cleaned\Exam-task\CoursesApplication.Domain\obj\Debug\net8.0\CoursesApplication.Domain.AssemblyInfo.cs
+C:\Users\dimit\Desktop\New folder\29.5-solution\CoursesApplication-Cleaned\Exam-task\CoursesApplication.Domain\obj\Debug\net8.0\CoursesApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\New folder\29.5-solution\CoursesApplication-Cleaned\Exam-task\CoursesApplication.Domain\obj\Debug\net8.0\CoursesApplication.Domain.dll
+C:\Users\dimit\Desktop\New folder\29.5-solution\CoursesApplication-Cleaned\Exam-task\CoursesApplication.Domain\obj\Debug\net8.0\refint\CoursesApplication.Domain.dll
+C:\Users\dimit\Desktop\New folder\29.5-solution\CoursesApplication-Cleaned\Exam-task\CoursesApplication.Domain\obj\Debug\net8.0\CoursesApplication.Domain.pdb
+C:\Users\dimit\Desktop\New folder\29.5-solution\CoursesApplication-Cleaned\Exam-task\CoursesApplication.Domain\obj\Debug\net8.0\ref\CoursesApplication.Domain.dll
